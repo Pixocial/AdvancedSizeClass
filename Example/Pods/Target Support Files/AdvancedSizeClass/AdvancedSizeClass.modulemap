@@ -1,0 +1,6 @@
+framework module AdvancedSizeClass {
+  umbrella header "AdvancedSizeClass-umbrella.h"
+
+  export *
+  module * { export * }
+}

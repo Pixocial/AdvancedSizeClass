@@ -1,0 +1,23 @@
+PODS:
+  - AdvancedSizeClass (0.1.0)
+  - SnapKit (4.2.0)
+
+DEPENDENCIES:
+  - AdvancedSizeClass (from `../`)
+  - SnapKit
+
+SPEC REPOS:
+  trunk:
+    - SnapKit
+
+EXTERNAL SOURCES:
+  AdvancedSizeClass:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AdvancedSizeClass: da42b13a7ed427aacc4e67a9c68208ae3f8a8dde
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
+
+PODFILE CHECKSUM: d3b57fc602dc975b7e6d557d2c79b260dee8917f
+
+COCOAPODS: 1.10.2
