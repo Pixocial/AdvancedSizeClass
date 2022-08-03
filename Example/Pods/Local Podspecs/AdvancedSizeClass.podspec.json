@@ -1,0 +1,24 @@
+{
+  "name": "AdvancedSizeClass",
+  "version": "0.1.0",
+  "summary": "iOS屏幕尺寸变更工具",
+  "description": "在大机子上直接模拟显示小屏幕机子的UI，不用再去借一堆的机子，提高工作效率！",
+  "homepage": "http://techgit.meitu.com/mtgtech/efficiency/advancedsizeclass",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "East.zhang": "zxd2@meitu.com"
+  },
+  "source": {
+    "git": "git@techgit.meitu.com:mtgtech/efficiency/advancedsizeclass.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "swift_versions": "5.0",
+  "source_files": "AdvancedSizeClass/Classes/**/*",
+  "swift_version": "5.0"
+}
